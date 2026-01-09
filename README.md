@@ -135,7 +135,7 @@ The project includes the following testing layers:
 
 ## 🎥 Demo Video
 
-[![Car Warehouse Demo](demo/demo-thumbnail.png)](demo/demo-video.mp4)
+[![Car Warehouse Demo](demo/demo-thumbnail.png)]([demo/demo-video.mp4](https://github.com/lesliesam96/car-warehouse-quality-testing/blob/main/demo.mp4))
 
 _Click on the image to watch the demo_
 
