@@ -133,7 +133,12 @@ The project includes the following testing layers:
 * Improved skills in debugging, defect analysis, and test automation
 * Developed a strong **software engineering mindset focused on reliability and maintainability**
 
----
+## 🎥 Demo Video
+
+[![Car Warehouse Demo](demo/demo-thumbnail.png)](demo/demo-video.mp4)
+
+_Click on the image to watch the demo_
+
 
 ## Author
 
